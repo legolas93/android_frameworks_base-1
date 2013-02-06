@@ -1,7 +1,5 @@
-diff --git a/0001-frameworks_base.diff b/0001-frameworks_base.diff
-index d4c784a..e69de29 100644
---- a/0001-frameworks_base.diff
-+++ b/0001-frameworks_base.diff
+--- 0001-frameworks_base.diff
++++ 0001-frameworks_base.diff
 @@ -1,124 +0,0 @@
 -diff --git a/include/utils/Looper.h b/include/utils/Looper.h
 -index eefff31..18dfe6b 100644
