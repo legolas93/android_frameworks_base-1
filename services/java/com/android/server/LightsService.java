@@ -68,7 +68,7 @@ public class LightsService {
         if (ff.exists()) {
             FLASHLIGHT_FILE = FLASHLIGHT_FILE_SPOTLIGHT;
         } else {
-            FLASHLIGHT_FILE = "/sys/class/leds/flashlight/brightness";
+            FLASHLIGHT_FILE = "/sys/class/backlight/aat1401-backlight/brightness";
         }
     }
 
